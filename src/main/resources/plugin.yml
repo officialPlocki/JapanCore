@@ -1,0 +1,21 @@
+name: JapanCore
+author: plocki
+version: 1.0
+api-version: 1.17
+load: STARTUP
+main: org.japanbuild.japancore.JapanCore
+description: JapanCore
+commands:
+  job:
+  jobs:
+  market:
+  marketplace:
+  ma:
+  marketadmin:
+  lang:
+  language:
+  tp:
+  teleport:
+  pay:
+  gm:
+  gamemode:
